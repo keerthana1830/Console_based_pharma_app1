@@ -48,3 +48,4 @@ public class Medication {
         this.stockQuantity = stockQuantity;
     }
 }
+//Medication Class
